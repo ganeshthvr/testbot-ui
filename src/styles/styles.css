@@ -1,0 +1,23 @@
+.demo{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding-left: 20%;
+}
+
+.logo{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.textarea{
+    margin-top: '20px'; 
+    width: '100%'; 
+    font-family: 'monospace';
+}
+

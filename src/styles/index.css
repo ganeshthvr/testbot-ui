@@ -1,0 +1,21 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+td 
+{
+    height: 50px; 
+    width: 50px;
+}
+tr
+{
+    margin: 200px;
+}
+
+#cssTable td 
+{
+    text-align: center; 
+    vertical-align: middle;
+}
